@@ -1,0 +1,27 @@
+Name (this will not be shared)
+
+Email address (will not be shared)
+
+Please list the working groups in which you are an invited expert:
+
+Please list the specifications you are editing:
+
+Please list any other meaningful contributions you have made:
+
+Is your work as an invited expert sponsored?
+
+If so, by what percentage?
+
+Are your invited expert expenses sponsored?
+
+If so, by what percentage?
+
+Which underrepresented minorites do you identify with, if any?
+
+Have you ever abstained from joining a F2F meeting because of travel expenses?
+
+Have you ever not considered an editorial position because of related travel costs?
+
+Have you ever abstained from running for the AB or TAG because of related travel expenses?
+
+How much do you spend on travel expenses for W3C-related activiteis per year?
